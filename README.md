@@ -5,4 +5,4 @@ daily papers and thesis for you
 
 用户协议：https://github.com/kiloheromyday/Reading-event/blob/main/PRIVACY.md
 
-隐私协议：https://github.com/kiloheromyday/Reading-event/blob/main/UsersNeedToKnow.md
+隐私协议：https://github.com/kiloheromyday/Reading-event/blob/main/UsersNeedToKnow
